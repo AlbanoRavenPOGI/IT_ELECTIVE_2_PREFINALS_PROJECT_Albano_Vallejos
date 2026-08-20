@@ -2,13 +2,14 @@
 
 namespace HelpDesk_System.Models
 {
-    [Table("TicketCategories")]
-    public class Category
+    [Table("Tags")]
+    public class Tags
     {
-        [Column("CategoryId")] 
+        [Column("TagId")]
         public int Id { get; set; }
 
         public string Name { get; set; } = string.Empty;
-        public string Description { get; set; } = string.Empty;
+
+        public ICollection<TicketTags> TicketTags { get; set; } = new List<TicketTags>();
     }
 }

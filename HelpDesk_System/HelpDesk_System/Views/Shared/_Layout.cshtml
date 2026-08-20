@@ -1,20 +1,230 @@
-﻿<ul class="navbar-nav flex-grow-1">
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-controller="Home" asp-action="Index">Home</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-controller="Departments" asp-action="Index">Departments</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-controller="Employees" asp-action="Index">Employees</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-controller="Customers" asp-action="Index">Customers</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-controller="Categories" asp-action="Index">Categories</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-controller="Tickets" asp-action="Index">Tickets</a>
-    </li>
-</ul>
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - HelpDesk System</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+
+    <style>
+            :root {
+                --bg-body: #f8fafc;
+                --bg-surface: #ffffff;
+                --primary: #6366f1;
+                --primary-hover: #4f46e5;
+                --primary-light: #eef2ff;
+                --text-main: #0f172a;
+                --text-muted: #64748b;
+                --border-color: #e2e8f0;
+                --radius-lg: 16px;
+                --radius-md: 10px;
+                --shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
+                --shadow-md: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
+            }
+
+            body {
+                font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+                background-color: var(--bg-body);
+                color: var(--text-main);
+                min-height: 100vh;
+                display: flex;
+                flex-direction: column;
+                -webkit-font-smoothing: antialiased;
+            }
+
+            .navbar-custom {
+                background-color: rgba(255, 255, 255, 0.85);
+                backdrop-filter: blur(16px);
+                -webkit-backdrop-filter: blur(16px);
+                border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+                padding: 0.75rem 0;
+            }
+
+            .navbar-brand {
+                font-weight: 800;
+                font-size: 1.25rem;
+                color: var(--primary) !important;
+                letter-spacing: -0.03em;
+                display: flex;
+                align-items: center;
+                gap: 0.6rem;
+            }
+
+            .brand-icon {
+                width: 36px;
+                height: 36px;
+                background: linear-gradient(135deg, #6366f1, #4f46e5);
+                color: #ffffff;
+                border-radius: 10px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3);
+            }
+
+            .nav-link {
+                font-weight: 600;
+                font-size: 0.9rem;
+                color: var(--text-muted) !important;
+                padding: 0.5rem 0.9rem !important;
+                border-radius: var(--radius-md);
+                transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            }
+
+                .nav-link:hover, .nav-link.active {
+                    color: var(--primary) !important;
+                    background-color: var(--primary-light);
+                }
+
+            .main-content {
+                flex: 1;
+                padding-top: 2.5rem;
+                padding-bottom: 3.5rem;
+            }
+
+            .card {
+                border: 1px solid var(--border-color);
+                border-radius: var(--radius-lg);
+                box-shadow: var(--shadow-sm);
+                background-color: var(--bg-surface);
+                transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            }
+
+                .card:hover {
+                    box-shadow: var(--shadow-md);
+                }
+
+            .bg-indigo-light {
+                background-color: var(--primary-light) !important;
+            }
+
+            .table {
+                color: var(--text-main);
+                vertical-align: middle;
+            }
+
+                .table thead th {
+                    background-color: #f8fafc;
+                    color: var(--text-muted);
+                    font-weight: 700;
+                    font-size: 0.75rem;
+                    text-transform: uppercase;
+                    letter-spacing: 0.06em;
+                    border-bottom: 1px solid var(--border-color);
+                    padding: 1rem 1.25rem;
+                }
+
+                .table tbody td {
+                    padding: 1rem 1.25rem;
+                    border-bottom: 1px solid var(--border-color);
+                }
+
+            .btn-primary {
+                background-color: var(--primary);
+                border-color: var(--primary);
+                font-weight: 600;
+                font-size: 0.9rem;
+                border-radius: var(--radius-md);
+                padding: 0.6rem 1.25rem;
+                box-shadow: 0 2px 6px rgba(99, 102, 241, 0.25);
+                transition: all 0.2s ease;
+            }
+
+                .btn-primary:hover {
+                    background-color: var(--primary-hover);
+                    border-color: var(--primary-hover);
+                    transform: translateY(-1px);
+                    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.35);
+                }
+
+            .form-control, .form-select {
+                border-radius: var(--radius-md);
+                border: 1px solid var(--border-color);
+                padding: 0.6rem 0.9rem;
+                font-size: 0.925rem;
+                transition: all 0.2s ease;
+            }
+
+                .form-control:focus, .form-select:focus {
+                    border-color: var(--primary);
+                    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.12);
+                }
+
+            footer {
+                background-color: var(--bg-surface);
+                border-top: 1px solid var(--border-color);
+                padding: 1.5rem 0;
+                color: var(--text-muted);
+                font-size: 0.85rem;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-light navbar-custom fixed-top">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Tickets" asp-action="Index">
+                    <div class="brand-icon">
+                        <i class="bi bi-headset"></i>
+                    </div>
+                    <span>HelpDesk</span>
+                </a>
+                <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-md-inline-flex justify-content-between">
+                    <ul class="navbar-nav ms-auto gap-1">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Tickets" asp-action="Index">
+                                <i class="bi bi-ticket-perforated me-1"></i> Tickets
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Customers" asp-action="Index">
+                                <i class="bi bi-people me-1"></i> Customers
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Employees" asp-action="Index">
+                                <i class="bi bi-person-badge me-1"></i> Employees
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Departments" asp-action="Index">
+                                <i class="bi bi-building me-1"></i> Departments
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Categories" asp-action="Index">
+                                <i class="bi bi-tags me-1"></i> Categories
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container main-content" style="margin-top: 72px;">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer mt-auto">
+        <div class="container text-center">
+            <span>&copy; 2026 - <strong>HelpDesk System</strong> &bull; All Rights Reserved</span>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
