@@ -32,6 +32,21 @@ namespace HelpDesk_System.Data
             modelBuilder.Entity<TicketAssignment>().ToTable("TicketAssignments");
             modelBuilder.Entity<TicketComment>().ToTable("TicketComments");
             modelBuilder.Entity<TicketHistory>().ToTable("TicketHistory");
+
+            modelBuilder.Entity<Employee>()
+                .HasOne(e => e.Department)
+                .WithMany(d => d.Employees)
+                .HasForeignKey(e => e.DepartmentId);
+
+            modelBuilder.Entity<Ticket>()
+                .HasOne(t => t.Customer)
+                .WithMany()
+                .HasForeignKey(t => t.CustomerId);
+
+            modelBuilder.Entity<Ticket>()
+                .HasOne(t => t.Category)
+                .WithMany()
+                .HasForeignKey(t => t.CategoryId);
         }
     }
 }

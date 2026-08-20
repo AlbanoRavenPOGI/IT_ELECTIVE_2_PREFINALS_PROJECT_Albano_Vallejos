@@ -9,7 +9,7 @@ namespace HelpDesk_System.Models
         public int AssignedToEmployeeId { get; set; }
         public string AssignedAt { get; set; } = string.Empty;
 
-        public Tickets? Ticket { get; set; }
+        public Ticket? Ticket { get; set; }
         public Employee? AssignedEmployee { get; set; }
     }
 }
