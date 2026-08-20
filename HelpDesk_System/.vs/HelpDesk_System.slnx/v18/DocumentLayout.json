@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\database.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\database.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Employee.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T16:13:03.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Department.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T16:10:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DATABASE.md",
               "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\DATABASE.md",
               "RelativeDocumentMoniker": "HelpDesk_System\\DATABASE.md",
@@ -43,19 +77,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HelpDesk_System",
               "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\HelpDesk_System.csproj",
               "RelativeDocumentMoniker": "HelpDesk_System\\HelpDesk_System.csproj",
               "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\HelpDesk_System.csproj",
               "RelativeToolTip": "HelpDesk_System\\HelpDesk_System.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-20T14:35:38.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T14:35:38.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Program.cs",
               "RelativeDocumentMoniker": "HelpDesk_System\\Program.cs",
@@ -63,21 +96,19 @@
               "RelativeToolTip": "HelpDesk_System\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T14:28:54.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T14:28:54.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HelpDesk_System",
+              "DocumentIndex": 5,
+              "Title": "HelpDesk_System.csproj",
               "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\HelpDesk_System.csproj",
               "RelativeDocumentMoniker": "HelpDesk_System\\HelpDesk_System.csproj",
               "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\HelpDesk_System.csproj",
               "RelativeToolTip": "HelpDesk_System\\HelpDesk_System.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-20T14:19:25.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T14:19:25.126Z"
             }
           ]
         }
