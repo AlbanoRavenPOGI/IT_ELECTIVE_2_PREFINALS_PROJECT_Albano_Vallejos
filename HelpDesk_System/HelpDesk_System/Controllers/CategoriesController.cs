@@ -7,6 +7,7 @@ namespace HelpDesk_System.Controllers
     public class CategoriesController : Controller
     {
         private readonly AppDbContext _context;
+
         public CategoriesController(AppDbContext context) => _context = context;
 
         public async Task<IActionResult> Index()
