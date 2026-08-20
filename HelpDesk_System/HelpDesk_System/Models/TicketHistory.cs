@@ -9,6 +9,6 @@ namespace HelpDesk_System.Models
         public string Action { get; set; } = string.Empty;
         public string ChangedAt { get; set; } = string.Empty;
 
-        public Ticket? Ticket { get; set; }
+        public Tickets? Ticket { get; set; }
     }
 }
