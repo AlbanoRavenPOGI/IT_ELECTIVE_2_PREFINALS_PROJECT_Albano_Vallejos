@@ -13,7 +13,7 @@ namespace HelpDesk_System.Data
         public DbSet<TeamMember> TeamMembers => Set<TeamMember>();
         public DbSet<Customer> Customers => Set<Customer>();
         public DbSet<Category> Categories => Set<Category>();
-        public DbSet<Tickets> Tickets => Set<Tickets>();
+        public DbSet<Ticket> Tickets => Set<Ticket>();
         public DbSet<TicketAssignment> TicketAssignments => Set<TicketAssignment>();
         public DbSet<TicketComment> TicketComments => Set<TicketComment>();
         public DbSet<TicketHistory> TicketHistories => Set<TicketHistory>();
