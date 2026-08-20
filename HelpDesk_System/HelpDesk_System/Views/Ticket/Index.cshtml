@@ -1,0 +1,20 @@
+﻿@model IEnumerable<HelpDesk_System.Models.Ticket>
+@{ ViewData["Title"] = "Ticket"; }
+
+<h2>Tickets</h2>
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr><th>Number</th><th>Title</th><th>Priority</th><th>Status</th><th>Action</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>@item.TicketNumber</td>
+                <td>@item.Title</td>
+                <td>@item.Priority</td>
+                <td>@item.Status</td>
+                <td><a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
