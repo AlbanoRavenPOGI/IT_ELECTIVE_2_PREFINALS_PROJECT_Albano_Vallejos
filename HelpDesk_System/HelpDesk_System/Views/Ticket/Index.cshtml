@@ -1,6 +1,11 @@
 ﻿@model IEnumerable<HelpDesk_System.Models.Ticket>
 @{ ViewData["Title"] = "Ticket"; }
 
+<form asp-action="Index" method="get" class="mb-3 d-flex gap-2">
+    <input type="text" name="searchString" class="form-control" placeholder="Search title or ticket number..." />
+    <button type="submit" class="btn btn-secondary">Search</button>
+</form>
+
 <h2>Tickets</h2>
 <table class="table table-bordered mt-3">
     <thead>

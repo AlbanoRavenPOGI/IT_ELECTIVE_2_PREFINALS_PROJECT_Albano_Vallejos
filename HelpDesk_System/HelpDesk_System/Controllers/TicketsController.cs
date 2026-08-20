@@ -46,5 +46,16 @@ namespace HelpDesk_System.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        public async Task<IActionResult> Index(string searchString)
+        {
+            var tickets = _context.Tickets.Include(t => t.Customer).Include(t => t.Category).AsQueryable();
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                tickets = tickets.Where(t => t.Title.Contains(searchString) || t.TicketNumber.Contains(searchString));
+            }
+
+            return View(await tickets.ToListAsync());
+        }
     }
 }
