@@ -1,547 +1,603 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\",
+  "WorkspaceRootPath": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\ticketassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\ticketassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\ticket\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\ticket\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\tickettags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\tickettags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\ticketattachments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\ticketattachments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\ticket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\ticket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\viewmodels\\departmentworkloadviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\viewmodels\\departmentworkloadviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\ticketcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\ticketcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\employees\\workload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\employees\\workload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\tickethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\tickethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\database.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\database.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\departments\\workload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\departments\\workload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\helpdesk_system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\helpdesk_system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\raven\\downloads\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\helpdesk_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\helpdesk_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\categories\\hierarchy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\categories\\hierarchy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\viewmodels\\categoryhierarchyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\viewmodels\\categoryhierarchyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\tickets\\primaryassignees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\tickets\\primaryassignees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\tickets\\multipleassignees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\tickets\\multipleassignees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\tickets\\unassigned.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\tickets\\unassigned.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\viewmodels\\primaryassigneeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\viewmodels\\primaryassigneeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\viewmodels\\multipleassigneeticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\viewmodels\\multipleassigneeticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\viewmodels\\unassignedticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\viewmodels\\unassignedticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\database.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\database.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\viewmodels\\employeeworkloadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\viewmodels\\employeeworkloadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\models\\ticketattachments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\models\\ticketattachments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|c:\\users\\althea\\source\\repos\\it_elective_2_prefinals_project_albano_vallejos\\helpdesk_system\\helpdesk_system\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14F3DA8-3DC5-DC3A-9DEE-E533D9EA43FC}|HelpDesk_System\\HelpDesk_System.csproj|solutionrelative:helpdesk_system\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 640,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TicketsController.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\TicketsController.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Controllers\\TicketsController.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\TicketsController.cs",
-              "RelativeToolTip": "HelpDesk_System\\Controllers\\TicketsController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T18:24:24.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Department.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T16:10:34.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TicketAttachments.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketAttachments.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\TicketAttachments.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketAttachments.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\TicketAttachments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T19:45:08.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "HelpDesk_System\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T18:19:57.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Category.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T16:53:58.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TicketAssignment.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketAssignment.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\TicketAssignment.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketAssignment.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\TicketAssignment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T16:55:18.315Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:52:30.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "HelpDesk_System\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA4wBgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T17:17:14.142Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Teams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Teams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:48:43.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Ticket.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\Ticket.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBMAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:49:15.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "HelpDesk_System\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAnwEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T16:54:21.739Z",
+              "WhenOpened": "2026-08-21T03:13:19.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "HelpDesk_System\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:48:13.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentWorkloadViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\DepartmentWorkloadViewModels.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\ViewModels\\DepartmentWorkloadViewModels.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\DepartmentWorkloadViewModels.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\ViewModels\\DepartmentWorkloadViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:41:58.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Ticket\\Details.cshtml",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Ticket\\Details.cshtml",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Ticket\\Details.cshtml",
-              "RelativeToolTip": "HelpDesk_System\\Views\\Ticket\\Details.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwDYAAABqAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T19:37:47.153Z",
+              "WhenOpened": "2026-08-21T02:48:18.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "HelpDesk_System\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T17:34:29.187Z",
+              "Title": "Workload.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Departments\\Workload.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Departments\\Workload.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Departments\\Workload.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Departments\\Workload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:39:45.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TicketTags.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketTags.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\TicketTags.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketTags.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\TicketTags.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T19:43:57.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Tags.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Tags.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Tags.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Tags.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\Tags.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T19:45:32.997Z",
+              "DocumentIndex": 6,
+              "Title": "Workload.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Employees\\Workload.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Employees\\Workload.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Employees\\Workload.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Employees\\Workload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:08:08.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "HelpDesk_System\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "HelpDesk_System\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T18:02:13.003Z",
+              "WhenOpened": "2026-08-21T03:11:24.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TicketComment.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketComment.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\TicketComment.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketComment.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\TicketComment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T17:01:03.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Ticket\\Index.cshtml",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Ticket\\Index.cshtml",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Ticket\\Index.cshtml",
-              "RelativeToolTip": "HelpDesk_System\\Views\\Ticket\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAgwIYAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T18:25:28.926Z",
+              "WhenOpened": "2026-08-21T03:08:41.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Ticket\\Create.cshtml",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Ticket\\Create.cshtml",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Ticket\\Create.cshtml",
-              "RelativeToolTip": "HelpDesk_System\\Views\\Ticket\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T18:31:30.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Customer.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Employee.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T16:24:10.047Z",
+              "WhenOpened": "2026-08-21T03:22:27.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:19:41.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HelpDesk_System\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T18:35:37.052Z",
+              "WhenOpened": "2026-08-21T03:09:29.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hierarchy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Categories\\Hierarchy.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Categories\\Hierarchy.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Categories\\Hierarchy.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Categories\\Hierarchy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:18:04.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "HelpDesk_System\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:16:50.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryHierarchyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\CategoryHierarchyViewModel.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\ViewModels\\CategoryHierarchyViewModel.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\CategoryHierarchyViewModel.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\ViewModels\\CategoryHierarchyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:17:24.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PrimaryAssignees.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\PrimaryAssignees.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Tickets\\PrimaryAssignees.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\PrimaryAssignees.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Tickets\\PrimaryAssignees.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:16:34.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "TicketHistory.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketHistory.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\TicketHistory.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketHistory.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\TicketHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T17:01:27.978Z",
+              "Title": "MultipleAssignees.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\MultipleAssignees.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Tickets\\MultipleAssignees.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\MultipleAssignees.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Tickets\\MultipleAssignees.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:16:08.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "DATABASE.md",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\DATABASE.md",
-              "RelativeDocumentMoniker": "HelpDesk_System\\DATABASE.md",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\DATABASE.md",
-              "RelativeToolTip": "HelpDesk_System\\DATABASE.md",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-08-20T18:49:13.437Z",
+              "Title": "Unassigned.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\Unassigned.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Tickets\\Unassigned.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\Unassigned.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Tickets\\Unassigned.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T03:15:39.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PrimaryAssigneeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\PrimaryAssigneeViewModel.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\ViewModels\\PrimaryAssigneeViewModel.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\PrimaryAssigneeViewModel.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\ViewModels\\PrimaryAssigneeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:14:57.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "HelpDesk_System\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T18:20:27.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "HelpDesk_System\\Views\\Employees\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T18:09:20.283Z"
+              "Title": "MultipleAssigneeTicketViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\MultipleAssigneeTicketViewModel.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\ViewModels\\MultipleAssigneeTicketViewModel.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\MultipleAssigneeTicketViewModel.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\ViewModels\\MultipleAssigneeTicketViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:14:37.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Customers\\Index.cshtml",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Customers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Customers\\Index.cshtml",
-              "RelativeToolTip": "HelpDesk_System\\Views\\Customers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T18:14:09.95Z"
+              "Title": "UnassignedTicketViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\UnassignedTicketViewModel.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\ViewModels\\UnassignedTicketViewModel.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\UnassignedTicketViewModel.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\ViewModels\\UnassignedTicketViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:14:19.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "HelpDesk_System\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Department.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T18:13:23.069Z"
+              "WhenOpened": "2026-08-21T03:11:56.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "HelpDesk_System\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T18:08:38.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Departments\\Index.cshtml",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Departments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Departments\\Index.cshtml",
-              "RelativeToolTip": "HelpDesk_System\\Views\\Departments\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T18:03:04.467Z"
+              "WhenOpened": "2026-08-21T03:09:40.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Program.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Program.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Program.cs",
-              "RelativeToolTip": "HelpDesk_System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "HelpDesk_System\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T14:28:54.399Z"
+              "WhenOpened": "2026-08-21T03:04:55.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "TeamMember.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TeamMember.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\TeamMember.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TeamMember.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\TeamMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "EmployeeWorkloadViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\EmployeeWorkloadViewModel.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\ViewModels\\EmployeeWorkloadViewModel.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\ViewModels\\EmployeeWorkloadViewModel.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\ViewModels\\EmployeeWorkloadViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T16:23:47.585Z"
+              "WhenOpened": "2026-08-21T03:06:23.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DATABASE.md",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\DATABASE.md",
+              "RelativeDocumentMoniker": "HelpDesk_System\\DATABASE.md",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\DATABASE.md",
+              "RelativeToolTip": "HelpDesk_System\\DATABASE.md",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-21T03:03:32.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Team.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Team.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Category.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T16:23:20.242Z"
+              "WhenOpened": "2026-08-21T02:55:07.777Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\Employee.cs",
-              "RelativeToolTip": "HelpDesk_System\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "TicketAttachments.cs",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketAttachments.cs",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Models\\TicketAttachments.cs",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Models\\TicketAttachments.cs",
+              "RelativeToolTip": "HelpDesk_System\\Models\\TicketAttachments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T16:13:03.115Z"
+              "WhenOpened": "2026-08-21T02:44:57.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "HelpDesk_System",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\HelpDesk_System.csproj",
-              "RelativeDocumentMoniker": "HelpDesk_System\\HelpDesk_System.csproj",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\HelpDesk_System.csproj",
-              "RelativeToolTip": "HelpDesk_System\\HelpDesk_System.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-20T14:35:38.05Z"
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\Details.cshtml",
+              "RelativeDocumentMoniker": "HelpDesk_System\\Views\\Tickets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Althea\\source\\repos\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\Views\\Tickets\\Details.cshtml",
+              "RelativeToolTip": "HelpDesk_System\\Views\\Tickets\\Details.cshtml",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAkwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T02:40:52.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 388,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "HelpDesk_System.csproj",
-              "DocumentMoniker": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\HelpDesk_System.csproj",
-              "RelativeDocumentMoniker": "HelpDesk_System\\HelpDesk_System.csproj",
-              "ToolTip": "C:\\Users\\raven\\Downloads\\IT_ELECTIVE_2_PREFINALS_PROJECT_Albano_Vallejos\\HelpDesk_System\\HelpDesk_System\\HelpDesk_System.csproj",
-              "RelativeToolTip": "HelpDesk_System\\HelpDesk_System.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-20T14:19:25.126Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

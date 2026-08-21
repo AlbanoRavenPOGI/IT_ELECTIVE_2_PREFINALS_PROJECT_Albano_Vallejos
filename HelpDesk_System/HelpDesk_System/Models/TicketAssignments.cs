@@ -9,8 +9,12 @@ namespace HelpDesk_System.Models
         public int EmployeeId { get; set; }
         public string AssignedAt { get; set; } = string.Empty;
         public string? UnassignedAt { get; set; }
-        public int IsPrimary { get; set; }
-        public Ticket? Ticket { get; set; }
-        public Employee? Employee { get; set; }
+        public bool IsPrimary { get; set; }
+
+        [ForeignKey(nameof(TicketId))]
+        public Ticket Ticket { get; set; } = null!;
+
+        [ForeignKey(nameof(EmployeeId))]
+        public Employee Employee { get; set; } = null!;
     }
 }
