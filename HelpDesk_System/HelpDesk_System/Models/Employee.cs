@@ -1,4 +1,6 @@
-﻿namespace HelpDesk_System.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace HelpDesk_System.Models
 {
     public class Employee
     {
@@ -9,8 +11,11 @@
         public string Email { get; set; } = string.Empty;
         public string JobTitle { get; set; } = string.Empty;
         public string HireDate { get; set; } = string.Empty;
-        public int IsActive { get; set; } = 1;
+        public bool IsActive { get; set; } = true;
 
-        public Department? Department { get; set; }
+        [ForeignKey(nameof(DepartmentId))]
+        public Department Department { get; set; } = null!;
+
+        public ICollection<TicketAssignment> TicketAssignments { get; set; } = new List<TicketAssignment>();
     }
 }

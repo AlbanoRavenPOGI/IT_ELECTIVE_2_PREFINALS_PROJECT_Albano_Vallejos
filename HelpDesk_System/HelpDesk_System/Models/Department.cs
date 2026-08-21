@@ -5,7 +5,7 @@
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
         public string? Description { get; set; }
-        public int IsActive { get; set; } = 1;
+        public bool IsActive { get; set; } = true;
 
         public ICollection<Employee> Employees { get; set; } = new List<Employee>();
         public ICollection<Team> Teams { get; set; } = new List<Team>();

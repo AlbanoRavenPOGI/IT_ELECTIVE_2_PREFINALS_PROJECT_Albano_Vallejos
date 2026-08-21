@@ -3,14 +3,14 @@
 @{
     ViewData["Title"] = $"Ticket #{Model.Id} Details";
 
-    var priorityClass = Model.Priority switch
+    var priorityClass = Model.Priority.Name switch
     {
         "High" or "Urgent" => "bg-danger-subtle text-danger border-danger-subtle",
         "Medium" => "bg-warning-subtle text-warning-emphasis border-warning-subtle",
         _ => "bg-info-subtle text-info-emphasis border-info-subtle"
     };
 
-    var statusClass = Model.Status switch
+    var statusClass = Model.Status.Name switch
     {
         "Closed" or "Resolved" => "bg-success-subtle text-success border-success-subtle",
         "In Progress" => "bg-primary-subtle text-primary border-primary-subtle",
@@ -25,17 +25,17 @@
     <div class="d-flex justify-content-between align-items-start">
         <div>
             <div class="d-flex align-items-center gap-2 mb-1">
-                <span class="fs-4 fw-bold text-dark">#@Model.Id - @Model.Title</span>
-                <span class="badge border rounded-pill @statusClass px-3 py-1">@Model.Status</span>
-                <span class="badge border rounded-pill @priorityClass px-3 py-1">@Model.Priority Priority</span>
+                <span class="fs-4 fw-bold text-dark">#@Model.Id - @Model.Subject</span>
+                <span class="badge border rounded-pill @statusClass px-3 py-1">@Model.Status.Name</span>
+                <span class="badge border rounded-pill @priorityClass px-3 py-1">@Model.Priority.Name Priority</span>
             </div>
-            <p class="text-muted small mb-0">Ticket Number: <strong>@Model.TicketNumber</strong> &bull; Created on @Model.CreatedAt</p>
+            <p class="text-muted small mb-0">Created on @Model.CreatedAt</p>
         </div>
     </div>
 </div>
 
 <div class="row g-4">
-  
+
     <div class="col-lg-8">
 
         <div class="card border-0 shadow-sm p-4 mb-4">
@@ -63,7 +63,7 @@
             </div>
         </div>
 
-    
+
         <div class="card border-0 shadow-sm p-4 mb-4">
             <h6 class="fw-bold text-uppercase text-muted small mb-3"><i class="bi bi-chat-left-text me-1"></i> Comments & Updates</h6>
             @if (Model.TicketComments != null && Model.TicketComments.Any())
@@ -73,10 +73,18 @@
                     {
                         <div class="p-3 rounded-3 bg-light border">
                             <div class="d-flex justify-content-between mb-2">
-                                <strong class="text-dark">Support Team / Customer</strong>
+                                <strong class="text-dark">
+                                    @(comment.Employee != null
+                                        ? $"{comment.Employee.FirstName} {comment.Employee.LastName}"
+                                        : "Customer")
+                                    @if (comment.IsInternal)
+                                    {
+                                        <span class="badge bg-secondary-subtle text-secondary border ms-1">Internal</span>
+                                    }
+                                </strong>
                                 <small class="text-muted">@comment.CreatedAt</small>
                             </div>
-                            <p class="mb-0 text-secondary small">@comment.CommentText</p>
+                            <p class="mb-0 text-secondary small">@comment.Comment</p>
                         </div>
                     }
                 </div>
@@ -87,7 +95,7 @@
             }
         </div>
 
-   
+
         <div class="card border-0 shadow-sm p-4">
             <h6 class="fw-bold text-uppercase text-muted small mb-3"><i class="bi bi-paperclip me-1"></i> Attachments</h6>
             @if (Model.TicketAttachments != null && Model.TicketAttachments.Any())
@@ -101,7 +109,10 @@
                                     <i class="bi bi-file-earmark-text fs-4 text-primary"></i>
                                     <span class="text-truncate small fw-medium">@file.FileName</span>
                                 </div>
-                                <a href="@file.FilePath" target="_blank" class="btn btn-sm btn-light border"><i class="bi bi-download"></i></a>
+                                @* file.FilePath does not exist in the schema (only FileName, ContentType,
+                                   FileSize, UploadedAt) - no download link is possible without a stored
+                                   path. Replace with file size instead until/unless the schema changes. *@
+                                <span class="text-muted small">@(file.FileSize / 1024) KB</span>
                             </div>
                         </div>
                     }
@@ -114,9 +125,9 @@
         </div>
     </div>
 
-  
+
     <div class="col-lg-4">
- 
+
         <div class="card border-0 shadow-sm p-4 mb-4">
             <h6 class="fw-bold text-uppercase text-muted small mb-3"><i class="bi bi-person me-1"></i> Customer Information</h6>
             <div class="fw-semibold text-dark">@(Model.Customer?.ContactName ?? "N/A")</div>
@@ -142,7 +153,13 @@
                                 @(assignment.Employee?.FirstName?.FirstOrDefault() ?? 'E')
                             </div>
                             <div>
-                                <div class="fw-semibold text-dark small">@(assignment.Employee != null ? $"{assignment.Employee.FirstName} {assignment.Employee.LastName}" : "Assigned Staff")</div>
+                                <div class="fw-semibold text-dark small">
+                                    @(assignment.Employee != null ? $"{assignment.Employee.FirstName} {assignment.Employee.LastName}" : "Assigned Staff")
+                                    @if (assignment.IsPrimary)
+                                    {
+                                        <span class="badge bg-primary-subtle text-primary border ms-1" style="font-size: 0.65rem;">Primary</span>
+                                    }
+                                </div>
                                 <div class="text-muted" style="font-size: 0.75rem;">Support Specialist</div>
                             </div>
                         </div>

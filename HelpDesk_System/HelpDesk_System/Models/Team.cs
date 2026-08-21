@@ -1,4 +1,6 @@
-﻿namespace HelpDesk_System.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace HelpDesk_System.Models
 {
     public class Team
     {
@@ -7,6 +9,9 @@
         public string Name { get; set; } = string.Empty;
         public string? Description { get; set; }
 
-        public Department? Department { get; set; }
+        [ForeignKey(nameof(DepartmentId))]
+        public Department Department { get; set; } = null!;
+
+        public ICollection<TeamMember> TeamMembers { get; set; } = new List<TeamMember>();
     }
 }

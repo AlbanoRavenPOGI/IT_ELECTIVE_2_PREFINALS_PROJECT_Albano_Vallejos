@@ -47,8 +47,3 @@
 - **Primary Key:** Id (INTEGER)
 - **Foreign Keys:** TicketId -> Tickets(Id), AuthorEmployeeId -> Employees(Id)
 - **Columns:** CommentText (TEXT), CreatedAt (TEXT)
-
-## 10. TicketHistory
-- **Primary Key:** Id (INTEGER)
-- **Foreign Key:** TicketId -> Tickets(Id)
-- **Columns:** Action (TEXT), ChangedAt (TEXT)

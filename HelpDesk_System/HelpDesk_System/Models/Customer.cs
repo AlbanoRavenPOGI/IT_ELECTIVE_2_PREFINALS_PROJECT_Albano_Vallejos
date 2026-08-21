@@ -8,6 +8,6 @@
         public string Email { get; set; } = string.Empty;
         public string? Phone { get; set; }
         public string CreatedAt { get; set; } = string.Empty;
-        public int IsActive { get; set; } = 1;
+        public bool IsActive { get; set; } = true;
     }
 }
